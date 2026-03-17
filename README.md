@@ -1,1 +1,1 @@
-# AulaPY com framework Django2
+# AulaPY com framework Django
